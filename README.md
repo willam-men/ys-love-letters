@@ -36,7 +36,6 @@ recipient know who sent them a love letter
         A Google Apps Script function that compiles the inputs from the google form into a Google Doc. Each Google Doc is named and corresponds to a squaddie who has received love letters
 
 * You can find the script in the file named "forms-script.js" given by LnA
-* 
 
 #### 1. Viewing responses in a Google Sheet
 * Click on the Responses tab when editting the Google Form (note: you must be an editor to be able to see this tab
